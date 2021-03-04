@@ -41,7 +41,7 @@ The input to Hubble.2D6 is a VCF and can have as many samples (haploytypes) as n
 
 Example:
 ```
-python bin/hubble.py -s data/sample.vcf
+python bin/hubble.py -v data/sample.vcf
 ```
 
 Run `python bin/hubble.py --help` for full list of commands.
